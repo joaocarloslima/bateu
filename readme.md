@@ -34,6 +34,10 @@ Este é um projeto da disciplina de Programação Orientada a Objetos (POO) do S
 
 ### Classes do Projeto
 
+A imagem abaixo mostra a relação entre as classes do projeto.
+
+![Diagrama de Classes](./images/uml.png)
+
 #### Naipe
 
 1. Crie um arquivo chamado `Naipe.java`
